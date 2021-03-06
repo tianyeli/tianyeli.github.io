@@ -1,0 +1,7 @@
+@inproceedings{liu2019softras,
+  title={Soft rasterizer: A differentiable renderer for image-based 3d reasoning},
+  author={Liu, Shichen and Li, Tianye and Chen, Weikai and Li, Hao},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={7708--7717},
+  year={2019}
+}

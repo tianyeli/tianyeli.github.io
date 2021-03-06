@@ -1,0 +1,8 @@
+@inproceedings{saito2016facetrack,
+  title={Real-time facial segmentation and performance capture from rgb input},
+  author={Saito, Shunsuke and Li, Tianye and Li, Hao},
+  booktitle={European conference on computer vision},
+  pages={244--261},
+  year={2016},
+  organization={Springer}
+}

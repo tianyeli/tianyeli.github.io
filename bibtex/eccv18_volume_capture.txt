@@ -1,0 +1,7 @@
+@inproceedings{huang2018dvv,
+  title={Deep volumetric video from very sparse multi-view performance capture},
+  author={Huang, Zeng and Li, Tianye and Chen, Weikai and Zhao, Yajie and Xing, Jun and LeGendre, Chloe and Luo, Linjie and Ma, Chongyang and Li, Hao},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  pages={336--354},
+  year={2018}
+}

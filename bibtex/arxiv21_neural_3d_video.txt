@@ -1,0 +1,7 @@
+@article{li2021neural3dvideo,
+  title={Neural 3D Video Synthesis},
+  author={Tianye Li and Mira Slavcheva and M. Zollh{\"o}fer and S. Green and Christoph Lassner and Changil Kim and Tanner Schmidt and S. Lovegrove and M. Goesele and Z. Lv},
+  journal={ArXiv},
+  year={2021},
+  volume={abs/2103.02597}
+}

@@ -1,0 +1,7 @@
+@inproceedings{zhao2019undistortion,
+  title={Learning perspective undistortion of portraits},
+  author={Zhao, Yajie and Huang, Zeng and Li, Tianye and Chen, Weikai and LeGendre, Chloe and Ren, Xinglei and Shapiro, Ari and Li, Hao},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={7849--7859},
+  year={2019}
+}
